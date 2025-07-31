@@ -14,6 +14,9 @@ It leverages built-in Excel features such as:
 - User-friendly layout with clear charts and text labels
 - Real-time updates as data changes
 
+## Preview
+![Dashboard View](Dashboard.png)
+
 ## How to Use
 1. Open the Excel file.
 2. Use slicers to filter by Sales Rep, Region, or Product.
